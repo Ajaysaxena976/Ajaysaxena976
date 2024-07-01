@@ -77,7 +77,7 @@ Our React-based Text Util tool offers a comprehensive suite of text manipulation
 <h1 align="center">Connect with me:</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/ajay-saxena-880561272/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ajay-saxena-880561272/" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Ajaysaxena976" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ajaysaxena976" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/ajaysaxena_97/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ajaysaxena976" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     </p>
 <br/>
 <br/>
