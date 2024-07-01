@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://img.freepik.com/premium-vector/programming-code-made-with-binary-code-coding-hacker-background-digital-binary-data-streaming-digital-code_127544-778.jpg?size=626&ext=jpg&ga=GA1.1.1700460183.1712188800&semt=ais" width="100%">
 </p>
-<h1 align="center">Hi 👋, I'm AJAY SAXENA</h1>
+<h1 align="center">Hi 👋, This is AJAY SAXENA</h1>
 <h3 align="center">A Man trying to Figure-Out Stuff!!</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
@@ -11,7 +11,7 @@
 
 
 
-- 🌱 I’m currently learning **React, Wordpress**
+- 🌱 I’m currently learning **MERN and DSA**
 
 
 
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **ajaysa9760@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-vlCVy_RLEdDHr5JWjJnIEXBdV9bs9vZ/view?usp=sharing](https://drive.google.com/file/d/1lxtKq4MZi4FqIlVOyxaz92PFEwHwXO4f/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1PD19yqVcG8JyXcR5Wugbxwrs8JjklWUI/view]()
 
 <br/>
 <br/>
